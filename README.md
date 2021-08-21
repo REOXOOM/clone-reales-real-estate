@@ -6,7 +6,7 @@ Demo: https://kangel7-2.000webhostapp.com/
 
 ## Usage
 
-First `npm i` then:
+First  then:
 
 ### `npm start`
 
